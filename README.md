@@ -10,3 +10,7 @@ Mendel Cooper**
 chmod +x #_script's.sh
 
 ./#_script's.sh
+
+# P.S.:
+
+Описание скрипта смотри в самом скрипте.
