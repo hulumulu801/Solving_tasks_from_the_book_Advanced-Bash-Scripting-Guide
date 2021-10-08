@@ -8,4 +8,5 @@ Mendel Cooper**
 # Как запустить?:
 
 chmod +x #_script's.sh
+
 ./#_script's.sh
